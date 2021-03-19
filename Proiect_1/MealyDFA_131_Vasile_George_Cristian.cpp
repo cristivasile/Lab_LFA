@@ -1,3 +1,6 @@
+//Vasile George-Cristian
+//Grupa 131
+
 #include <iostream>
 
 using namespace std;
