@@ -1,0 +1,6 @@
+N = {S, A}
+SIGMA = {a, b, c}
+S -> aS
+S -> bA
+A -> LAMBDA
+A -> cA
